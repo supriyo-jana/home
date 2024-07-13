@@ -25,7 +25,11 @@ role: PMRF Scholar
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Department of Mathematics
+  - affiliation: IIT Madras
     url: https://math.iitm.ac.in
+#Email
+email:
+   -Email: supriyojana@smail.iitm.ac.in
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,14 +37,15 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/
+<!--   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/
+  - icon: brands/instagram
     url: https://www.instagram.com/
-  - icon: brands/
+  - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/
     url: https://www.linkedin.com/
+    -->
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
