@@ -25,8 +25,10 @@ role: PMRF Scholar
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Department of Mathematics
-  - affiliation: IIT Madras
     url: https://math.iitm.ac.in
+#Email
+email:
+   -Email: supriyojana@smail.iitm.ac.in
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
