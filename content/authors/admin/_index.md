@@ -25,6 +25,7 @@ role: PMRF Scholar
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Department of Mathematics
+  - affiliation: IIT Madras
     url: https://math.iitm.ac.in
 
 # Social network links
@@ -33,7 +34,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-<!--   - icon: brands/x
+   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
@@ -41,7 +42,6 @@ profiles:
     url: https://github.com/gcushen
   - icon: brands/
     url: https://www.linkedin.com/
-    -->
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
