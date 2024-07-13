@@ -3,7 +3,7 @@
 title: Supriyo Jana
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Supriyo
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher
+role: PMRF Scholar
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Department of Mathematics
+    url: https://math.iitm.ac.in
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,13 +33,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
+  - icon: brands/
     url: https://www.instagram.com/
-  - icon: brands/github
+  - icon: brands/
     url: https://github.com/gcushen
-  - icon: brands/linkedin
+  - icon: brands/
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
@@ -47,15 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Smooth Dynamics
+  - Hyperbolic Dynamics
+  - 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Mathematics
+    institution: IIT Madras
+    date_start: 
+    date_end: 2021-08-02
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
