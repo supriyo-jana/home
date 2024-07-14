@@ -48,9 +48,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
+  - Analysis on Manifolds
   - Smooth Dynamics
   - Hyperbolic Dynamics
-  - 
 
 education:
   - area: PhD Mathematics
@@ -62,23 +62,23 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Mathematics
+    institution: IIT Madras
+    date_start: 2021-06-01
+    date_end: 2019-07-29
     summary: |
-      GPA: 3.8/4.0
+      GPA: 
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Mathematics
+    institution: Ramarkrishna Mission Residential College, Narendrapur
+    date_start: 2019-07-01
+    date_end: 2016-08-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
