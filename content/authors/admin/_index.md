@@ -31,15 +31,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/
-    url: https://www.linkedin.com/
+  - icon:
+    url: https://www.researchgate.net/profile/Supriyo-Jana
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
