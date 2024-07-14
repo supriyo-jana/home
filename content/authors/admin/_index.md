@@ -38,6 +38,8 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
+title: "Research Interest"
+layout: "interests"
 interests:
   - Analysis on Manifolds
   - Smooth Dynamics
