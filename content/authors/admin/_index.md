@@ -184,4 +184,4 @@ awards:
 
 ## About Me
 
-I am a PhD scholar at the Department of Mathematics, IIT Madras since Aug, 2021. My PhD advisor is <a href="https://home.iitm.ac.in/soumen/">Dr. Soumen Sarkar</a>. My broad research interest is Dynamical Systems. In particular, I am interested in dynamical systems coming out of vector fields on manifolds.
+I am a PhD scholar at the Department of Mathematics, IIT Madras since Aug, 2021. My PhD advisor is <a href="https://home.iitm.ac.in/soumen/">Dr. Soumen Sarkar</a>. My broad research interest is Dynamical Systems. In particular, I am interested in dynamical systems coming out of vector fields on manifolds. I am also interested in Hilbert's $16^{th}$ problem.
